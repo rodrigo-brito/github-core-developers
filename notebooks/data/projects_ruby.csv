@@ -1,0 +1,51 @@
+language,name,owner,description,createdAt,defaultBranch,stars,commits
+ruby,rails,rails,Ruby on Rails,2008-04-11T02:19:47Z,master,40617,69798
+ruby,jekyll,jekyll,:globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby,2008-10-20T06:29:03Z,master,35156,10001
+ruby,legacy-homebrew,Homebrew,:skull: The former home of Homebrew/homebrew (deprecated),2009-05-20T19:38:37Z,master,28375,63881
+ruby,discourse,discourse,"A platform for community discussion. Free, open, simple.",2013-01-12T00:25:55Z,master,25884,29338
+ruby,fastlane,fastlane,🚀 The easiest way to automate building and releasing your iOS and Android apps,2014-12-02T17:00:38Z,master,22823,14590
+ruby,gitlabhq,gitlabhq,GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com,2011-10-02T16:25:27Z,master,21110,79212
+ruby,huginn,huginn,Create agents that monitor and act on your behalf.  Your agents are standing by!,2013-03-10T06:00:31Z,master,19472,3030
+ruby,devise,plataformatec,Flexible authentication solution for Rails with Warden.,2009-09-16T12:15:12Z,master,19005,3512
+ruby,devdocs,freeCodeCamp,API Documentation Browser,2013-10-24T18:16:07Z,master,18605,2642
+ruby,vagrant,hashicorp,Vagrant is a tool for building and distributing development environments.,2010-01-21T08:34:27Z,master,17120,11301
+ruby,mastodon,tootsuite,"Your self-hosted, globally interconnected microblogging community",2016-02-22T15:01:25Z,master,14696,5865
+ruby,ruby,ruby,The Ruby Programming Language,2010-02-27T15:55:23Z,trunk,14680,51819
+ruby,engineering-blogs,kilimchoi,A curated list of engineering blogs,2015-06-13T18:25:17Z,master,13911,1655
+ruby,brew,Homebrew,🍺 The missing package manager for macOS,2016-03-06T05:08:38Z,master,13497,16515
+ruby,homebrew-cask,Homebrew,🍻 A CLI workflow for the administration of macOS applications distributed as binaries,2012-03-05T02:05:17Z,master,13426,76564
+ruby,metasploit-framework,rapid7,Metasploit Framework,2011-08-30T06:13:20Z,master,13275,48023
+ruby,bootstrap-sass,twbs,Official Sass port of Bootstrap 2 and 3.,2011-09-06T18:58:49Z,master,12681,1012
+ruby,diaspora,diaspora,"A privacy-aware, distributed, open source social network.",2010-09-15T05:20:04Z,develop,11935,19581
+ruby,sass,sass,Sass makes CSS fun again.,2010-09-22T06:16:55Z,stable,11482,6454
+ruby,CocoaPods,CocoaPods,The Cocoa Dependency Manager.,2011-08-14T00:10:53Z,master,10788,7737
+ruby,capistrano,capistrano,Remote multi-server automation tool,2009-02-26T16:14:04Z,master,10563,1613
+ruby,sinatra,sinatra,Classy web-development dressed in a DSL (official / canonical repo),2009-01-14T01:27:30Z,master,10125,3993
+ruby,hacker101,Hacker0x01,Hacker101,2017-11-27T18:57:00Z,master,9564,141
+ruby,octopress,imathis,Octopress is an obsessively designed framework for Jekyll blogging. It’s easy to configure and easy to deploy. Sweet huh?,2009-10-18T21:41:32Z,master,9540,857
+ruby,spree,spree,"Spree is a complete, modular & API-driven open source ecommerce solution for Ruby on Rails",2008-03-10T14:45:35Z,master,9352,18598
+ruby,rubocop,rubocop-hq,"A Ruby static code analyzer and formatter, based on the community Ruby style guide.",2012-04-21T10:09:58Z,master,9300,7284
+ruby,logstash,elastic,"Logstash - transport and process your logs, events, or other data",2010-11-18T01:31:50Z,master,9293,8954
+ruby,paperclip,thoughtbot,Easy file attachment management for ActiveRecord,2008-04-10T19:58:20Z,master,8991,1961
+ruby,sidekiq,mperham,"Simple, efficient background processing for Ruby",2012-01-16T23:17:27Z,master,8888,3448
+ruby,bourbon,thoughtbot,A Lightweight Sass Tool Set,2011-04-23T15:41:20Z,master,8692,1156
+ruby,fpm,jordansissel,"Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.",2011-01-03T20:07:59Z,master,8665,2082
+ruby,grape,ruby-grape,An opinionated framework for creating REST-like APIs in Ruby.,2010-08-02T14:25:08Z,master,8561,2036
+ruby,capybara,teamcapybara,Acceptance test framework for web applications,2009-11-04T22:19:17Z,master,8504,3205
+ruby,postal,atech,📨 A fully featured open source mail delivery platform for incoming & outgoing e-mail,2017-04-19T12:04:57Z,master,8323,206
+ruby,resque,resque,"Resque is a Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later.",2009-08-12T00:27:35Z,master,8299,1639
+ruby,activeadmin,activeadmin,The administration framework for Ruby on Rails applications.,2010-04-15T14:26:03Z,master,8119,5461
+ruby,carrierwave,carrierwaveuploader,"Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks",2008-08-28T18:39:49Z,master,8090,2206
+ruby,tmuxinator,tmuxinator,Manage complex tmux sessions easily,2010-12-10T21:49:50Z,master,8064,772
+ruby,whenever,javan,Cron jobs in Ruby,2009-02-16T03:19:48Z,master,7689,508
+ruby,guides,thoughtbot,A guide for programming in style.,2012-07-27T03:15:44Z,master,7410,401
+ruby,quine-relay,mame,An uroboros program with 100+ programming languages,2013-07-15T13:29:20Z,master,7251,376
+ruby,kaminari,kaminari,"⚡ A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Ruby webapps",2011-02-06T08:07:20Z,master,7197,1428
+ruby,simple_form,plataformatec,"Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.",2009-12-28T14:23:48Z,master,7156,1875
+ruby,faker,stympy,"A library for generating fake data such as names, addresses, and phone numbers.",2008-12-24T17:20:37Z,master,6888,1463
+ruby,rails_admin,sferik,RailsAdmin is a Rails engine that provides an easy-to-use interface for managing your data,2010-08-01T17:01:00Z,master,6872,4398
+ruby,fluentd,fluent,Fluentd: Unified Logging Layer (project under CNCF),2011-06-19T08:41:40Z,master,6680,4238
+ruby,omniauth,omniauth,OmniAuth is a flexible authentication system utilizing Rack middleware.,2010-03-30T20:34:32Z,master,6671,1296
+ruby,liquid,Shopify,"Liquid markup language. Safe, customer facing template language for flexible web apps. ",2008-05-08T15:27:26Z,master,6564,1137
+ruby,better_errors,charliesome,Better error page for Rack apps,2012-12-08T11:02:18Z,master,6385,556
+ruby,middleman,middleman,Hand-crafted frontend development,2009-07-27T21:41:11Z,master,6288,3229

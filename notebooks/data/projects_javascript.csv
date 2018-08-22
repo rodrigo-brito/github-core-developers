@@ -1,0 +1,51 @@
+language,name,owner,description,createdAt,defaultBranch,stars,commits
+javascript,vue,vuejs,"🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.",2013-07-29T03:24:51Z,dev,111969,2610
+javascript,react,facebook,"A declarative, efficient, and flexible JavaScript library for building user interfaces.",2013-05-24T16:15:54Z,master,109591,10177
+javascript,d3,d3,"Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:",2010-09-27T17:22:42Z,master,78248,4153
+javascript,javascript,airbnb,JavaScript Style Guide,2012-11-01T23:13:50Z,master,75139,1669
+javascript,react-native,facebook,A framework for building native apps with React.,2015-01-09T18:10:16Z,master,67861,14369
+javascript,angular.js,angular,AngularJS - HTML enhanced for web apps!,2010-01-06T00:34:37Z,master,58953,8875
+javascript,Font-Awesome,FortAwesome,"The iconic SVG, font, and CSS toolkit",2012-02-17T14:19:43Z,master,57292,27
+javascript,create-react-app,facebook,Create React apps with no build configuration.,2016-07-17T14:55:11Z,next,54285,1548
+javascript,node,nodejs,Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:,2014-11-26T19:57:11Z,master,52635,23410
+javascript,jquery,jquery,jQuery JavaScript Library,2009-04-03T15:20:14Z,master,49799,6341
+javascript,axios,axios,Promise based HTTP client for the browser and node.js,2014-08-18T22:30:27Z,master,47130,829
+javascript,atom,atom,:atom: The hackable text editor,2012-01-20T18:18:21Z,master,46124,35468
+javascript,three.js,mrdoob,JavaScript 3D library.,2010-03-23T18:58:01Z,dev,44311,24703
+javascript,redux,reduxjs,Predictable state container for JavaScript apps,2015-05-29T23:53:15Z,master,43501,2651
+javascript,webpack,webpack,"A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through ""loaders,"" modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",2012-03-10T10:08:14Z,master,43491,7131
+javascript,socket.io,socketio,Realtime application framework (Node.JS server),2010-03-11T18:24:48Z,master,43307,1706
+javascript,Semantic-UI,Semantic-Org,Semantic is a UI component framework based around useful principles from natural language.,2013-04-08T23:32:04Z,master,42599,6603
+javascript,reveal.js,hakimel,The HTML Presentation Framework,2011-06-07T18:54:22Z,master,42012,2198
+javascript,html5-boilerplate,h5bp,"A professional front-end template for building fast, robust, and adaptable web apps or sites.",2010-01-24T18:03:24Z,master,41192,1642
+javascript,meteor,meteor,"Meteor, the JavaScript App Platform",2012-01-19T01:58:17Z,devel,40202,21394
+javascript,express,expressjs,"Fast, unopinionated, minimalist web framework for node.",2009-06-26T18:56:01Z,master,39831,5482
+javascript,material-ui,mui-org,React components that implement Google's Material Design.,2014-08-18T19:11:54Z,master,39656,7977
+javascript,Chart.js,chartjs,Simple HTML5 Charts using the <canvas> tag,2013-03-17T23:56:36Z,master,38991,2553
+javascript,moment,moment,"Parse, validate, manipulate, and display dates in javascript.",2011-03-01T02:46:06Z,develop,38369,3670
+javascript,resume.github.com,resume,Resumes generated using the GitHub informations,2011-02-06T13:39:55Z,master,37578,263
+javascript,puppeteer,GoogleChrome,Headless Chrome Node API,2017-05-09T22:16:13Z,master,37018,1088
+javascript,javascript-algorithms,trekhleb,Algorithms and data structures implemented in JavaScript with explanations and links to further readings,2018-03-24T07:47:04Z,master,35191,649
+javascript,json-server,typicode,Get a full fake REST API with zero coding in less than 30 seconds (seriously),2013-11-27T13:21:13Z,master,34329,694
+javascript,lodash,lodash,"A modern JavaScript utility library delivering modularity, performance, & extras.",2012-04-07T04:11:46Z,master,34166,7912
+javascript,impress.js,impress,It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.,2011-12-28T22:23:19Z,master,33857,357
+javascript,materialize,Dogfalo,"Materialize, a CSS Framework based on Material Design",2014-09-12T19:35:38Z,v1-dev,33748,3821
+javascript,yarn,yarnpkg,"📦🐈 Fast, reliable, and secure dependency management.",2016-01-19T17:39:16Z,master,32864,2116
+javascript,react-router,ReactTraining,Declarative routing for React,2014-05-16T22:22:51Z,master,32147,4172
+javascript,hacker-scripts,NARKOZ,Based on a true story,2015-11-21T19:05:09Z,master,31854,135
+javascript,markdown-here,adam-p,"Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.",2012-05-13T03:27:22Z,master,31374,793
+javascript,gulp,gulpjs,The streaming build system,2013-07-04T05:26:06Z,master,30168,1096
+javascript,Front-End-Checklist,thedaviddias,🗂 The perfect Front-End Checklist for modern websites and meticulous developers,2017-10-16T10:12:36Z,master,30032,645
+javascript,incubator-echarts,apache,"A powerful, interactive charting and visualization library for browser",2013-04-03T03:18:59Z,master,29621,4854
+javascript,brackets,adobe,"An open source code editor for the web, written in JavaScript, HTML and CSS.",2011-12-07T21:14:40Z,master,29147,17699
+javascript,jQuery-File-Upload,blueimp,"File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads.",2010-12-01T15:35:32Z,master,29106,1054
+javascript,babel,babel,:tropical_fish: Babel is a compiler for writing next generation JavaScript.,2014-09-28T13:38:23Z,master,29073,11834
+javascript,next.js,zeit,Next.js is a lightweight framework for static and server‑rendered applications.,2016-10-05T23:32:51Z,canary,28348,2341
+javascript,backbone,jashkenas,"Give your JS App some Backbone with Models, Views, Collections, and Events",2010-09-30T19:41:28Z,master,27269,3365
+javascript,Ghost,TryGhost,The platform for professional publishers,2013-05-04T11:09:13Z,master,27149,8306
+javascript,prettier,prettier,Prettier is an opinionated code formatter.,2016-11-29T17:13:37Z,master,26932,2636
+javascript,parcel,parcel-bundler,"📦🚀 Blazing fast, zero configuration web application bundler",2017-08-07T16:36:47Z,master,26033,653
+javascript,pm2,Unitech,Node.js Production Process Manager with a built-in Load Balancer.,2013-05-21T03:25:25Z,master,25972,4288
+javascript,serverless,serverless,"Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! – ",2015-04-21T03:48:40Z,master,25228,8846
+javascript,hyper,zeit,A terminal built on web technologies,2016-07-01T06:01:21Z,canary,25171,1118
+javascript,gatsby,gatsbyjs,⚛️📄🚀 Blazing fast site generator for React,2015-05-21T22:43:05Z,master,24885,5886

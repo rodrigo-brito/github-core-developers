@@ -1,0 +1,51 @@
+language,name,owner,description,createdAt,defaultBranch,stars,commits
+java,RxJava,ReactiveX,RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.,2013-01-08T20:11:48Z,2.x,34918,5444
+java,elasticsearch,elastic,"Open Source, Distributed, RESTful Search Engine",2010-02-08T13:20:56Z,master,33683,40375
+java,retrofit,square,"Type-safe HTTP client for Android and Java by Square, Inc.",2010-09-06T21:39:43Z,master,29237,1618
+java,okhttp,square,An HTTP+HTTP/2 client for Android and Java applications.,2012-07-23T13:42:55Z,master,28247,3264
+java,spring-boot,spring-projects,Spring Boot,2012-10-19T15:02:57Z,master,28036,18059
+java,guava,google,Google core libraries for Java,2014-05-29T16:23:17Z,master,26274,4792
+java,interviews,kdn251,Everything you need to know to get the job.,2017-02-14T18:19:25Z,master,25039,417
+java,MPAndroidChart,PhilJay,"A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, dragging and animations.",2014-04-25T14:29:47Z,master,23753,1984
+java,spring-framework,spring-projects,Spring Framework,2010-12-08T04:04:45Z,master,23081,17149
+java,glide,bumptech,An image loading and caching library for Android focused on smooth scrolling,2013-07-08T22:52:33Z,master,22961,2238
+java,lottie-android,airbnb,"Render After Effects animations natively on Android and iOS, Web, and React Native",2016-10-06T22:42:42Z,master,22101,978
+java,butterknife,JakeWharton,Bind Android views and callbacks to fields and methods.,2013-03-05T08:18:59Z,master,21848,840
+java,incubator-dubbo,apache,"Apache Dubbo (incubating) is a high-performance, java based, open source RPC framework.",2012-06-19T07:56:02Z,master,21035,2493
+java,leakcanary,square,A memory leak detection library for Android and Java.,2015-04-29T23:54:16Z,master,20387,584
+java,zxing,zxing,"ZXing (""Zebra Crossing"") barcode scanning library for Java, Android",2011-10-12T14:07:27Z,master,19705,3462
+java,AndroidUtilCode,Blankj,:fire: Android developers should collect the following utils(updating).,2016-07-30T18:18:32Z,master,19523,903
+java,EventBus,greenrobot,"Event bus for Android and Java that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.",2012-07-16T16:55:40Z,master,19075,480
+java,RxAndroid,ReactiveX,RxJava bindings for Android,2014-08-19T03:46:38Z,2.x,16617,470
+java,Android-Universal-Image-Loader,nostra13,"Powerful and flexible library for loading, caching and displaying images on Android.",2011-11-27T18:48:23Z,master,16252,1025
+java,picasso,square,A powerful image downloading and caching library for Android,2013-05-14T15:07:47Z,master,15864,1245
+java,jadx,skylot,Dex to Java decompiler,2013-03-18T17:08:21Z,master,15652,729
+java,netty,netty,Netty project - an event-driven asynchronous network application framework,2010-11-09T09:22:21Z,4.1,15379,8900
+java,fresco,facebook,An Android library for managing images and the memory they use.,2015-03-02T09:58:04Z,master,14837,1777
+java,fastjson,alibaba,:bullettrain_side: A fast JSON parser/generator for Java,2011-11-03T06:58:52Z,master,14682,2859
+java,BaseRecyclerViewAdapterHelper,CymChad,BRVAH:Powerful and flexible RecyclerAdapter,2016-04-10T07:40:11Z,master,14673,916
+java,Hystrix,Netflix,"Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.",2012-11-19T20:14:46Z,master,14635,2106
+java,libgdx,libgdx,Desktop/Android/HTML5/iOS Java game development framework,2012-08-10T19:34:38Z,master,14290,13354
+java,SmartRefreshLayout,scwang90,🔥下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。,2017-06-02T09:52:50Z,release,13882,886
+java,PhotoView,chrisbanes,"Implementation of ImageView for Android that supports zooming, by various touch gestures.",2012-07-17T16:39:00Z,master,13742,434
+java,proxyee-down,proxyee-down-org,http下载工具，基于http代理，支持多连接分块下载,2017-10-25T10:07:27Z,master,13516,289
+java,gson,google,A Java serialization/deserialization library to convert Java Objects into JSON and back,2015-03-19T18:21:20Z,master,13401,1430
+java,druid,alibaba,:hotsprings: 为监控而生的数据库连接池！阿里云DRDS(https://www.aliyun.com/product/drds )、阿里巴巴TDDL 连接池powered by Druid,2011-11-03T05:12:51Z,master,12725,5827
+java,tinker,Tencent,"Tinker is a hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk.",2016-09-06T06:57:52Z,master,12347,311
+java,Android-CleanArchitecture,android10,This is a sample app that is part of a series of blog posts I have written about how to architect an android application using Uncle Bob's clean architecture approach.,2014-08-19T14:09:26Z,master,12279,243
+java,Material-Animations,lgvalle,Android Transition animations explanation with examples.,2015-03-08T20:54:00Z,master,11913,76
+java,selenium,SeleniumHQ,A browser automation framework and ecosystem.,2013-01-14T21:40:56Z,master,11571,22629
+java,plaid,nickbutcher,An Android app which provides design news & inspiration as well as being an example of implementing material design.,2015-10-30T16:10:56Z,master,11530,801
+java,JCSprout,crossoverJie,"👨‍🎓 Java Core Sprout : basic, concurrent, algorithm ",2017-12-17T09:06:50Z,master,11225,525
+java,zheng,shuzheng,基于Spring+SpringMVC+Mybatis分布式敏捷开发系统架构，提供整套公共微服务服务模块：集中权限管理（单点登录）、内容管理、支付中心、用户管理（支持第三方登录）、微信平台、存储系统、配置中心、日志分析、任务和通知等，支持服务治理、监控和追踪，努力为中小型企业打造全方位J2EE企业级开发解决方案。,2016-10-04T10:07:06Z,master,11188,1228
+java,SlidingMenu,jfeinstein10,An Android library that allows you to easily create applications with slide-in menus. You may use it in your Android apps provided that you cite this project and include the license in your app. Thanks!,2012-06-30T05:14:23Z,master,11066,336
+java,jenkins,jenkinsci,Jenkins automation server,2010-11-22T21:21:23Z,master,10934,27235
+java,ExoPlayer,google,An extensible media player for Android,2014-06-13T21:19:18Z,release-v2,10879,4893
+java,androidannotations,androidannotations,Fast Android Development. Easy maintainance.,2012-01-06T08:48:03Z,develop,10449,2798
+java,greenDAO,greenrobot,greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases.,2011-10-22T16:15:14Z,master,10417,852
+java,AndroidSwipeLayout,daimajia,The Most Powerful Swipe Layout!,2014-08-25T04:09:33Z,master,10410,175
+java,Telegram,DrKLO,Telegram for Android source,2013-10-25T14:08:10Z,master,10408,312
+java,incubator-weex,apache,Apache Weex (Incubating),2017-01-06T08:00:06Z,master,10403,10735
+java,CircleImageView,hdodenhof,A circular ImageView for Android,2014-01-17T16:44:46Z,master,10381,123
+java,android-async-http,loopj,An Asynchronous HTTP Library for Android,2011-02-20T03:25:07Z,master,10284,874
+java,Signal-Android,signalapp,A private messenger for Android.,2011-12-15T20:01:12Z,master,10199,3719

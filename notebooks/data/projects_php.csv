@@ -1,0 +1,51 @@
+language,name,owner,description,createdAt,defaultBranch,stars,commits
+php,laravel,laravel,A PHP framework for web artisans,2011-06-08T03:06:08Z,master,45131,5687
+php,symfony,symfony,The Symfony PHP framework,2010-01-04T14:21:21Z,master,18346,38021
+php,Faker,fzaninotto,Faker is a PHP library that generates fake data for you,2011-10-14T22:49:02Z,master,16936,2343
+php,CodeIgniter,bcit-ci,Open Source PHP Framework (originally from EllisLab),2011-08-19T13:34:00Z,develop,16442,9860
+php,composer,composer,Dependency Manager for PHP,2011-06-08T08:53:00Z,master,15773,8103
+php,guzzle,guzzle,"Guzzle, an extensible PHP HTTP client",2011-02-28T02:44:05Z,master,13577,3154
+php,framework,laravel,,2013-01-10T21:27:28Z,5.6,13498,21623
+php,yii2,yiisoft,"Yii 2: The Fast, Secure and Professional PHP Framework",2012-02-13T15:32:36Z,master,12224,18418
+php,PHPMailer,PHPMailer,The classic email sending library for PHP,2011-08-23T07:57:17Z,master,11616,1285
+php,monolog,Seldaek,"Sends your logs to files, sockets, inboxes, databases and various web services",2011-02-17T02:07:15Z,master,11343,1970
+php,WordPress,WordPress,"WordPress, Git-ified. Synced via SVN every 15 minutes, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit patches to https://core.trac.wordpress.org/ instead.",2011-12-01T07:05:17Z,master,11308,38446
+php,phpunit,sebastianbergmann,The PHP Unit Testing framework.,2009-12-24T13:16:23Z,master,10992,10775
+php,PHPExcel,PHPOffice,DEPRECATED,2012-06-18T15:30:27Z,1.8,10375,1273
+php,phabricator,phacility,Open software engineering platform and fun adventure game,2011-01-21T22:08:29Z,master,10014,15408
+php,Carbon,briannesbitt,A simple PHP API extension for DateTime.,2012-09-08T02:56:20Z,master,9863,1596
+php,matomo,matomo-org,"Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites, apps & the IoT and visualise this data and extract insights. Privacy is built-in. We love Pull Requests! ",2011-03-30T21:18:17Z,3.x-dev,9792,25165
+php,sage,roots,WordPress starter theme with a modern development workflow,2011-01-29T03:12:09Z,master,9526,2209
+php,grav,getgrav,"Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS",2014-08-02T18:29:10Z,develop,9444,4285
+php,koel,phanan,A personal music streaming server that works.,2015-12-06T12:13:19Z,master,9382,1336
+php,Slim,slimphp,Slim Framework source code,2010-09-21T01:17:06Z,3.x,9165,3130
+php,cphalcon,phalcon,"High performance, full-stack PHP framework delivered as a C extension.",2011-11-26T05:52:50Z,master,9131,9920
+php,Cachet,CachetHQ,📛 An open source status page system for everyone.,2014-11-16T22:23:11Z,2.4,8587,6309
+php,parsedown,erusev,Markdown Parser in PHP,2013-07-10T20:23:25Z,master,8413,795
+php,Mobile-Detect,serbanghita,Mobile_Detect is a lightweight PHP class for detecting mobile devices (including tablets). It uses the User-Agent string combined with specific HTTP headers to detect the mobile environment.,2012-08-31T10:58:16Z,master,8089,756
+php,flarum,flarum,Composer starter project for Flarum,2014-12-30T11:13:08Z,master,8032,283
+php,whoops,filp,PHP errors for cool kids ,2013-03-11T16:58:27Z,master,7875,968
+php,laravel-debugbar,barryvdh,Laravel Debugbar (Integrates PHP Debug Bar),2013-09-05T10:26:54Z,master,7858,735
+php,api,dingo,A RESTful API package for the Laravel and Lumen frameworks.,2014-04-11T12:31:18Z,master,7691,1200
+php,image,Intervention,PHP Image Manipulation,2013-01-19T15:05:32Z,master,7684,603
+php,cakephp,cakephp,CakePHP: The Rapid Development Framework for PHP - Official Repository,2010-05-08T14:38:22Z,master,7609,35716
+php,phpdotenv,vlucas,"Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.",2013-01-23T06:57:12Z,master,7504,207
+php,PHP-Parser,nikic,A PHP parser written in PHP,2011-04-18T17:03:47Z,master,7298,1132
+php,october,octobercms,"Free, open-source, self-hosted CMS platform based on the Laravel PHP Framework.",2013-11-26T23:30:43Z,master,7242,4370
+php,laravel-ide-helper,barryvdh,Laravel IDE Helper,2013-03-10T00:12:55Z,master,7063,532
+php,flysystem,thephpleague,Abstraction for local and remote filesystems,2013-10-27T11:07:22Z,master,7055,1562
+php,wechat,overtrue,:package: It is probably the best SDK in the world for developing WeChat App.,2015-01-26T03:30:40Z,master,6954,1271
+php,voyager,the-control-group,Voyager - The Missing Laravel Admin,2016-10-27T03:56:49Z,1.1,6784,2485
+php,Workerman,walkor,"An asynchronous event driven PHP framework for easily building fast, scalable network applications. Supports HTTP, Websocket, SSL and other custom protocols. Supports libevent, HHVM, ReactPHP.",2013-12-08T07:49:28Z,master,6595,1127
+php,Goutte,FriendsOfPHP,"Goutte, a simple PHP Web Scraper",2010-04-21T19:21:54Z,master,6586,298
+php,jwt-auth,tymondesigns,🔐 JSON Web Token Authentication for Laravel & Lumen,2014-09-04T21:50:50Z,develop,6568,1430
+php,uuid,ramsey,"A PHP library for generating RFC 4122 version 1, 3, 4, and 5 universally unique identifiers (UUID).",2012-07-05T23:24:53Z,master,6471,746
+php,PHP-CS-Fixer,FriendsOfPHP,A tool to automatically fix PHP coding standards issues,2012-05-16T06:42:23Z,2.12,6349,5105
+php,react,reactphp,"Event-driven, non-blocking I/O with PHP.",2012-05-10T18:00:00Z,master,6343,917
+php,core,owncloud,":cloud: ownCloud web server core (Files, DAV, etc.)",2012-08-25T10:32:48Z,master,6188,38401
+php,php-ml,php-ai,PHP-ML - Machine Learning library for PHP,2016-02-08T20:39:41Z,master,6081,400
+php,labs,docker,This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.,2016-04-20T23:52:34Z,master,6008,693
+php,deployer,deployphp,A deployment tool written in PHP with support for popular frameworks out of the box,2013-07-11T11:45:38Z,master,6006,1645
+php,magento2,magento,"All Submissions you make to Magento Inc. (“Magento"") through GitHub are subject to the following terms and conditions: (1) You grant Magento a perpetual, worldwide, non-exclusive, no charge, royalty free, irrevocable license under your applicable copyrights and patents to reproduce, prepare derivative works of, display, publically perform, sublicense and distribute any feedback, ideas, code, or other information (“Submission"") you submit through GitHub. (2) Your Submission is an original work of authorship and you are the owner or are legally entitled to grant the license stated above. (3) You agree to the Contributor License Agreement found here:  https://github.com/magento/magento2/blob/master/CONTRIBUTOR_LICENSE_AGREEMENT.html",2011-11-30T15:30:13Z,2.2-develop,5974,65366
+php,entrust,Zizaco,Role-based Permissions for Laravel 5,2013-02-07T06:30:20Z,master,5857,442
+php,swiftmailer,swiftmailer,Comprehensive mailing tools for PHP,2008-12-19T08:31:03Z,master,5814,1499
