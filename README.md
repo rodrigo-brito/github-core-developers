@@ -7,7 +7,6 @@ Teacher: Marco Túlio Oliveira Valente
 
 Analyzed languages:
 
-- Go
 - Java
 - PHP
 - Ruby
